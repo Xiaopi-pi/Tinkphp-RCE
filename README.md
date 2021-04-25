@@ -1,4 +1,6 @@
-# Tinkphp-RCE
+# Tinkphp-RCE   
+
+tp rce
 
 
 #5.0.x
